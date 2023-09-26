@@ -53,4 +53,4 @@ Töö esimeses, teoreetilises osas töötatakse läbi uurimisküsimused.
 Teises, praktilises osas kirjeldatakse rakenduse loomise protsessi, lisaks antakse ülevaade rakenduse testimisest ja võimalikest edasiarendustest.
 
 ### Täistekst
-[Täistekst pdf-failina](./Siim%20Seppi%20-%20Diplomit%C3%B6%C3%B6.pdf)
+[Täistekst pdf-failina](./AednikuRakendus.pdf)

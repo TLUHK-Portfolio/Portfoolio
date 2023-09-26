@@ -29,4 +29,4 @@ Diplomitöö eesmärk on Eesti päevaliblikate välimääramise rakenduse jaoks 
 Diplomitöö koosneb kolmest peatükist. Esimeses peatükis annan ülevaate liblikatest ja olemasolevatest rahvusvahelistest rakendustest liblikate välimääramiseks. Teises peatükis käsitlen informatsiooni arhitektuuri loomise põhimõtteid, infosisu korraldamist, selle rühmitamist ja järjestamist ning kasutajaliidese disainipõhimõtteid. Kolmas peatükk keskendub rakenduse prototüübi loomisele, selle infoarhitektuurile, valminud prototüübi kirjeldusele ning annab ülevaate valminud detailse prototüübi testimisest.
 
 ### Diplomitöö täistekst
-[Täistekst pdf-failina](./Diplomitöö_Laura_Õun.pdf)
+[Täistekst pdf-failina](./Liblikarakendus.pdf)

@@ -27,4 +27,4 @@ Diplomitöö eesmärk on luua Haapsalu kolledži jaoks ikoonikomplekt, mis võik
 Diplomitöö jaguneb kolmeks peatükiks, millest esimeses, teoreetilises osas käsitletakse ikoonide loomise printsiipe ja parimaid praktikaid. Teine osa kajastab intervjuusid kolledži esindajatega, kokkuvõtet intervjuudest ja ikooniauditi tulemusi ning kolmas osa keskendub ikoonide loomise praktilisele protsessile koos illustreeriva materjaliga.
 
 ### Täistekst
-[Täistekst pdf-failina](./Tiina%20Kukli%20diplomitöö%202023.pdf)
+[Täistekst pdf-failina](./Ikoonikomplekt.pdf)
