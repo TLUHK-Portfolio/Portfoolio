@@ -15,16 +15,16 @@ Uute ikoonide loomise eeliseks on ka järjepidevus – määrates ära ikoonide 
 Diplomitöö eesmärk on luua Haapsalu kolledži jaoks ikoonikomplekt, mis võiks olla aluseks kolledžile ühtse ja isikupärase visuaalse ikoonistiili loomisel. Lisaks ikoonidele valmib ka mall ja määratakse ikoonide parameetrid, mille alusel saab edaspidi ikoone juurde luua või vastavalt vajadusele muuta.
 
 ### Uurimisküsimused:
-1. Millised on ikoonide loomise põhiprintsiibid?
-2. Millised on Haapsalu kolledži vajadused ja ootused ikoonidele ning kus neid plaanitakse kasutada?
-3. Milliste tehniliste nõuetega tuleb arvestada ikoonide loomisel?
+- Millised on ikoonide loomise põhiprintsiibid?
+- Millised on Haapsalu kolledži vajadused ja ootused ikoonidele ning kus neid plaanitakse kasutada?
+- Milliste tehniliste nõuetega tuleb arvestada ikoonide loomisel?
 
 ### Uurimisülesanded:
-1. Tutvuda ikoonide loomise alusteooriate ja parimate tehniliste praktikatega.
-2. Tutvuda Tallinna Ülikooli ja Haapsalu kolledži poolt seni kasutusel olevate ikoonidega ja viia läbi intervjuud kolledži erialade esindajatega.
-3. Luua Haapsalu kolledži vajadusi arvestav ikoonikomplekt ja mall.
+- Tutvuda ikoonide loomise alusteooriate ja parimate tehniliste praktikatega.
+- Tutvuda Tallinna Ülikooli ja Haapsalu kolledži poolt seni kasutusel olevate ikoonidega ja viia läbi intervjuud kolledži erialade esindajatega.
+- Luua Haapsalu kolledži vajadusi arvestav ikoonikomplekt ja mall.
 
 Diplomitöö jaguneb kolmeks peatükiks, millest esimeses, teoreetilises osas käsitletakse ikoonide loomise printsiipe ja parimaid praktikaid. Teine osa kajastab intervjuusid kolledži esindajatega, kokkuvõtet intervjuudest ja ikooniauditi tulemusi ning kolmas osa keskendub ikoonide loomise praktilisele protsessile koos illustreeriva materjaliga.
 
-### Täistekst
+### Diplomitöö täistekst
 [Täistekst pdf-failina](./Ikoonikomplekt.pdf)

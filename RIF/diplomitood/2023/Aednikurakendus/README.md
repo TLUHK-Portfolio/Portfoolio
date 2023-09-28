@@ -52,5 +52,5 @@ rakendusele - intervjuud aiapidajatega.
 Töö esimeses, teoreetilises osas töötatakse läbi uurimisküsimused.
 Teises, praktilises osas kirjeldatakse rakenduse loomise protsessi, lisaks antakse ülevaade rakenduse testimisest ja võimalikest edasiarendustest.
 
-### Täistekst
+### Diplomitöö täistekst
 [Täistekst pdf-failina](./AednikuRakendus.pdf)

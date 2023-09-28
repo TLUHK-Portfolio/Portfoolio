@@ -1,5 +1,12 @@
 # 2023. aastal kaitstud Rakendusinformaatika eriala diplomitööd
-
-- [Päevaliblikate välimääraja prototüübi loomine - Laura Õun](./2023/Liblikarakendus/README.md)
-- [Ikoonikomplekti loomine Haapsalu kolledžile - Tiina Kukli](./2023/Ikoonikomplekt/README.md)
 - [Aedniku rakenduse loomine - Siim Seppi](./2023/Aednikurakendus/README.md)
+- [Haapsalu kolledži ainekursuste veebirakenduse edasiarendus - Krister Herman Sepp](./2023/Ainekursus_back/README.md)
+- [Haapsalu kolledži e-õppe platvormi esirakenduse loomine koos disaini ja esirakenduse koodi sünkroniseerimisega - Juho Kalberg](./2023/Ainekursus_disain/README.md)
+- [Haapsalu kolledži kirjalike tööde vorminduse automaatkontrolli võimalikkus - Hanna Kalavus](./2023/Vorminduse_kontroll/README.md)
+- [Haapsalu kolledži tunniplaani nutiseadme kuva loomine - Jaanus Saago](./2023/Tunniplaan_mobiil/README.md)
+- [Ikoonikomplekti loomine Haapsalu kolledžile - Tiina Kukli](./2023/Ikoonikomplekt/README.md)
+- [Pikslikunsti loomine 2D-videomängudele - Ainar Kiison](./2023/Pikslikunst/README.md)
+- [Päevaliblikate välimääraja prototüübi loomine - Laura Õun](./2023/Liblikarakendus/README.md)
+- [Rakendusliideste regressioonitestimise automatiseerimine - Taaniel Levin](./2023/Testimine/README.md)
+- [Tunniplaani rakenduse arendamine ja juurutamine Tallinna Ülikooli Haapsalu Kolledži näitel - Ahti Irs](./2023/Tunniplaan_back/README.md)
+- [Üle-eestilise saskumängijate kodulehe prototüübi loomine - Kristi Pruul](./2023/Sasku/README.md)
