@@ -4,6 +4,7 @@
 
 **Juhendaja**: MA Laura Hein
 
+![Spraidid](./Spraidid.png)
 ## SISSEJUHATUS
 Tööjõuvajaduse seire- ja prognoosisüsteemi 2019. aasta uuringu kohaselt on mängude arendamine muutunud kiiresti kasvavaks ning oluliseks valdkonnaks. Mängutööstus on digitaliseerumisest ning virtuaalreaalsuse võimaluste kättesaadavamaks muutumisest saanud otsese tõuke ja sellele prognoositakse jätkuvat arengupotentsiaali. Valdkonnaga koos kasvab vajadus tehnilise personali järele, nagu disainerid, arendajad, audiovisuaalse töö tegijad jne. (OSKA, 2019)
 

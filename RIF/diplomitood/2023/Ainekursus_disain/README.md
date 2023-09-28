@@ -4,6 +4,7 @@
 
 **Juhendaja**: MSc Priidu Paomets
 
+![Esileht](./Esileht.png)
 ## SISSEJUHATUS
 21\. sajandi ülikool ja õppimine on seoses tehnika arenguga jõudnud etappi, kus suur osa õppest toimub interneti vahendusel (Chernev, 2023) (Rungta, 2023). Eriti kiirendas sellise õppevormi kasutuselevõttu ja sellega harjumist Covid19 aegne olukord (World Economic Forum, 2020) (Swiss School of Business and Management Geneva, 2022).
 

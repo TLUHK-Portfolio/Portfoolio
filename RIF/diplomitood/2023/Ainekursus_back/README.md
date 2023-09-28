@@ -4,6 +4,8 @@
 
 **Juhendaja**: MA Martti Raavel
 
+![Sisselogimine](./Sisselogimine.png)
+
 ## SISSEJUHATUS
 2022\. a lõpus esitas Tallinna Ülikooli Haapsalu kolledž grupile üliõpilastele tellimuse, et nad
 looksid veebirakenduse, mis sobiks kolledžile ainekursuste haldamiseks. Sama aasta lõpus

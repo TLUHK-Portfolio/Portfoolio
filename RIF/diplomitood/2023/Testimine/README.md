@@ -4,6 +4,7 @@
 
 **Juhendaja**: MSc Andrus Rinde
 
+![Skript](./Skript.png)
 ## SISSEJUHATUS
 Rakendusliideste testimine on aktuaalne teema, kuna testimine on tarkvaraarenduse kvaliteedi tagamisel väga oluline osa. Tarkvara peaks olema töökindel ning veavaba, et lõppkasutajal tekiks tarkvara kasutamisel võimalikult vähe probleeme. Suurtes arendusprojektides on tähtis, et lisaks manuaalsele testimisele oleks olemas ka hästi koostatud automaattestide süsteem, mis tagab varem arendatud osa kiire testimise ja aitab tagada selle funktsioneerimise ka peale uusi muudatusi. Viimasel ajal luuakse üha rohkem tarkvararakendusi, mis integreeruvad teiste rakendustega, platvormidega ja süsteemidega. Rakendusliides on tarkvara komponent, mis võimaldab erinevatel rakendustel omavahel suhelda ja andmeid vahetada. Kuna rakendused muutuvad üha keerukamaks ja sisaldavad aina rohkem rakendusliideseid, on oluline tagada nende liideste usaldusväärsus ja tõrgeteta toimimine. Rakendusliideste testimine on oluline tagamiseks, et erinevad rakendused suhtlevad omavahel õigesti ja tõrgeteta ning et andmeid vahetatakse turvaliselt ja õiges vormingus.
 

@@ -4,6 +4,8 @@
 
 **Juhendaja**: MSc Priidu Paomets
 
+![Filtrid](./Filtrid.png)
+
 ## SISSEJUHATUS
 Diplomitöö teemaks on Haapsalu kolledži tunniplaani rakenduse nutikuva loomine. Praegune Haapsalu kolledži tunniplaan on loodud aastal 2015 kolledži tudengi poolt diplomitööna. Valikpraktika raames läbiviidud uurimuse tulemusena andsid tudengid ja õppejõud tagasisidet, et tunniplaani ei ole mugav kasutada, ikoonid ei ole arusaadavad ning info saamiseks on vaja teha palju liigutusi. Lisaks puudub tänasel lahendusel skaleeruv nutikuva. Nutiseadmes on tunniplaani kasutamine väga ebamugav. Samas selgus uuringu tulemusel, et peaaegu pooled (46%) uuringus osalejatest kasutavad tunniplaani vaatamiseks ka nutiseadet. Inimesed tahavad nutiseadmes kasutusmugavust ja sellele pööratakse üha enam tähelepanu (Cajander et al., 2022). Järjest rohkem kasutatakse  gapäevaselt nutitelefone (Bouchrika, 2023) ning seetõttu on
 õigustatud ka ootus teha igapäevased toimingud mugavalt läbi nutitelefoni. Eeltoodule tuginedes saab väita, et tänane Haapsalu kolledži tunniplaan ei ole ajakohane ning vajab uuendamist.

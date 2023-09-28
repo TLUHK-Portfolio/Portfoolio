@@ -4,6 +4,7 @@
 
 **Juhendaja**: MA Martti Raavel
 
+![Saskuhullud](./Saskuhullud.png)
 ## SISSEJUHATUS
 “On vaba päev ja ma ei suuda töömõtteid välja lülitada. Selle nädala töösündmused ja järgmise nädala kohustused kriibivad kuklas ning ma tahaks juba kohe pihta hakata, muidu ei jõua ju kindlasti valmis. Kas ülal olevad mõtted kõlavad tuttavalt? Oleme kõik kogenud tööga seotud stressi, pinget, liiga suurt koormust ning soovi, et puhkehetked juba kiiremini saabuksid ja siis päriselt ka tööga seotud mõtetest puhata saaks.“ (Peaasjad MTÜ, s.a.) Järjest kiireneva elutempoga hakkama saamiseks vajab igaüks aeg-ajalt väikest lõõgastust argipäevamuredest välja tulemiseks ning üks võimalus selleks on tegeleda mõtte- sealhulgas kaardimängudega (The Australian & New Zealand Mental Health Association, 2019)(IANS, 2022). Üheks mõttespordi alaliigiks on saanud kaardimäng sasku, mida harrastatakse laialdaselt üle Eesti.
 

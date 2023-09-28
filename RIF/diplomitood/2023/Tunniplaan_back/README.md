@@ -4,6 +4,7 @@
 
 **Juhendaja**: MA Martti Raavel
 
+![Ylesehitus](./Ylesehitus.png)
 ## SISSEJUHATUS
 Haapsalu kolledžis kasutatav tunniplaanisüsteem on suuremate muudatusteta kasutusel olnud juba aastast 2015, millal tehti sellekohane diplomitöö (Ling, 2015). Kolmanda kursuse alguses läbitud valikpraktikas alustasime uue tunniplaani süsteemi loomist ja selle arendamiseks viisime tudengite ja õppejõudude seas läbi kasutusel oleva tunniplaaniga seotud küsitluse. Selgus, et hetkel kasutusel oleval tunniplaanil puudub osaliselt tudengite ja õppejõudude poolt oodatav funktsionaalsus. Sellest tulenevalt pakkus kool mulle võimalust arendada ja juurutada diplomitöö raames uus tunniplaani rakendus kasutades valikpraktikas tehtud tööd.
 
