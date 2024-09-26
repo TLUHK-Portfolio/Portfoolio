@@ -1,6 +1,45 @@
 # Rakendusinformaatika eriala praktikates tehtud tööd
 
-### Arvutimäng Mina Tean! - MM praktika 2023
+## Multimeediumi praktika 2024
+
+### Arvutimäng Escape from Piggy Island
+
+<table>
+  <tr>
+    <td><img src="https://github.com/TLUHK-RIF22/multimeediumi_praktika_Ryhm_1/raw/ef04606df25b185ace84241143f72fc42f8b1c22/Meedia/Video/Cutscened/Siga%20saabub%20chuck%20norrise%20moodi.gif" alt="Escape from Piggy Island"></td>
+    <td>"Escape from Piggy Island" mängu eesmärk on võimaldada mängijatel sukelduda põnevasse seiklusmaailma, kus nad saavad kogeda mitmekesiseid väljakutseid, lahendada loomingulisi mõistatusi ning arendada oma oskusi ja strateegilist mõtlemist. Mäng soovib pakkuda nauditavat ja mitmekülgset mängukogemust. Kuna antud meeskonna arust on liiga palju juba kaasaegseid mänge, otsutas antud meeskond luua retro mängu, mis pärineks justkui otse 90ndatest, kui mängukultuur laiemalt antud riigis levima hakkas..</td>
+  </tr>
+</table>
+
+[Mängu repositoorium](https://github.com/TLUHK-RIF22/multimeediumi_praktika_Ryhm_1)
+
+### Arvutimäng Prügivägi
+
+<table>
+  <tr>
+    <td><img src="https://github.com/TLUHK-RIF22/Oppemang-Prugivagi/blob/main/assets/plakat/pr%C3%BCgiv%C3%A4gi_poster.png?raw=true" alt="Prügivägi"></td>
+    <td>"Prügivägi" on 2D õppemäng prügisorteerimise kohta. Mängu peategelane on pesukaru Ragnar, kes õpetab mängijale prügi sorteerima.
+    </td>
+  </tr>
+</table>
+
+[Mängu repositoorium](https://github.com/TLUHK-RIF22/Oppemang-Prugivagi)
+
+### Arvutimäng "Fight or Flight"
+
+<table>
+  <tr>
+    <td><img src="./images/FightOrFlight.png" alt="Fight or Flight"></td>
+    <td>Projekt on loodud multimeediumi praktika raames. Projekti eesmärgiks on luua õppemäng, mis on suunatud 1.-6. klassi õpilastele. Mängu nimi on "Fight or Flight" ja selle žanriks on seikluslik õppemäng. Mängu kangelaseks on lendorav Timmu, kes sai oma nime maineka lendorava uurija – Uudo Timm järgi. Mängu eesmärgiks on õpetada lastele keskkonnakaitse ja looduse olulisust. Lisaks sellele, et lendoravat peetakse Eestis looduskaitse sümboliks, on ta valitud aasta loomaks 2023.
+    </td>
+  </tr>
+</table>
+
+[Mängu repositoorium](https://github.com/TLUHK-RIF22/Team-4)
+
+## Multimeediumi praktika 2023
+
+### Arvutimäng Mina Tean!
 
 <table>
   <tr>
@@ -11,7 +50,7 @@
 
 [Mängu repositoorium](https://github.com/TLUHK-Portfolio/Mina-Tean)
 
-### Arvutimäng Babushka&griZZly - MM praktika 2023
+## Arvutimäng Babushka&griZZly
 
 <table>
   <tr>
@@ -22,7 +61,7 @@
 
 [Mängu repositoorium](https://github.com/TLUHK-Portfolio/Babushka-and-griZZly)
 
-### Arvutimäng Tudengiralli - MM praktika 2023
+## Arvutimäng Tudengiralli
 
 <table>
   <tr>
