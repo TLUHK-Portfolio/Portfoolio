@@ -15,8 +15,6 @@
 
 ### Arvutimäng Prügivägi
 
-![alt text](image.png)
-
 <table>
   <tr>
     <td><img src="./images/Prygivagi.png" alt="Prügivägi"></td>
