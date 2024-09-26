@@ -15,9 +15,11 @@
 
 ### Arvutimäng Prügivägi
 
+![alt text](image.png)
+
 <table>
   <tr>
-    <td><img src="https://github.com/TLUHK-RIF22/Oppemang-Prugivagi/blob/main/assets/plakat/pr%C3%BCgiv%C3%A4gi_poster.png?raw=true" alt="Prügivägi"></td>
+    <td><img src="./images/Prygivagi.png" alt="Prügivägi"></td>
     <td>"Prügivägi" on 2D õppemäng prügisorteerimise kohta. Mängu peategelane on pesukaru Ragnar, kes õpetab mängijale prügi sorteerima.
     </td>
   </tr>
