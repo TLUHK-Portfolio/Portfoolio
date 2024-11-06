@@ -28,10 +28,10 @@
 | Mateemiku mängu mobiilirakenduse prototüübi loomine                                             | 2023            | Argo Ilves MSc                             | [Vaata](https://www.etera.ee/zoom/200364/view) |
 | Teksti automaathindaja brauserilaiendi arendus                                                  | 2023            | Kais Allkivi-Metsoja, <br /> Jaagup Kippar | [Vaata](https://www.etera.ee/zoom/200379/view) |
 | Päevaliblikate välimääraja prototüübi loomine                                                   | 2023            | Laura Hein MA                              | [Vaata](https://www.etera.ee/zoom/200341/view) |
-| AS Bestnet tootmise paberivabaks muutmine                                                       | 2023            |                                            | [Vaata](https://www.etera.ee/zoom/200384/view) |
+| AS Bestnet tootmise paberivabaks muutmine                                                       | 2023            | Martti Raavel MA                           | [Vaata](https://www.etera.ee/zoom/200384/view) |
 | Pikslikunsti loomine 2D-videomängudele                                                          | 2023            | Laura Hein MA                              | [Vaata](https://www.etera.ee/zoom/200344/view) |
 | Rakendusliideste regressioonitestimise automatiseerimine                                        | 2023            | Andrus Rinde MSc                           | [Vaata](https://www.etera.ee/zoom/200358/view) |
-| Turvateabe ja -sündmuste haldusrakenduse juurutamine Registrite ja Infosüsteemide Keskuses      | 2023            |                                            | [Vaata](https://www.etera.ee/zoom/200348/view) |
+| Turvateabe ja -sündmuste haldusrakenduse juurutamine Registrite ja Infosüsteemide Keskuses      | 2023            | Priidu Paomets MSc                         | [Vaata](https://www.etera.ee/zoom/200348/view) |
 | WordPressi veebilehe peata tehnoloogiale üleminekut tutvustava juhendi loomine                  | 2023            | Priidu Paomets MSc                         | [Vaata](https://www.etera.ee/zoom/200346/view) |
 
 ---
