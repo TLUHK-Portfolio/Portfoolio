@@ -22,7 +22,7 @@ Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tän
 - Veebirakenduste loomine
 - Projektijuhtimine ja koostööoskused
 
-## Praktika ja Projektipõhine Õpe
+## Praktika ja projektipõhine õpe
 
 Meie programmis mängib olulist rolli praktiline õpe ja projektitöö. Tudengitel on võimalus osaleda praktilistes projektides, mis simuleerivad reaalelulisi tööülesandeid, andes neile seeläbi väärtusliku kogemuse enne tööle asumist.
 
@@ -31,7 +31,7 @@ Meie programmis mängib olulist rolli praktiline õpe ja projektitöö. Tudengit
 
 ---
 
-## Tutvu Tudengite Projektidega
+## Tutvu tudengite projektidega
 
 TLUHK-portfolio lehel on võimalik tutvuda mitmete tudengite loodud projektidega. Projektide hulgas on näiteks mängud, hariduslikud rakendused ja erinevad tarkvaralahendused, mille eesmärk on arendada ja täiustada rakendusinformaatika eriala tudengite praktilisi oskusi ja loovust.
 
@@ -40,7 +40,7 @@ TLUHK-portfolio lehel on võimalik tutvuda mitmete tudengite loodud projektidega
 
 ---
 
-## Võta Meiega Ühendust
+## Võta meiega ühendust
 
 Kui teil on huvi koostööks või soovite rohkem teada saada meie eriala ja projektide kohta, võtke meiega ühendust. Haapsalu kolledž on pühendunud teadmiste ja innovatsiooni toetamisele ning otsib alati võimalusi uute ja põnevate koostööprojektide arendamiseks.
 
