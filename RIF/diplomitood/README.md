@@ -1,12 +1,15 @@
-# 2023. aastal kaitstud Rakendusinformaatika eriala diplomitööd
-- [Aedniku rakenduse loomine - Siim Seppi](./2023/Aednikurakendus/README.md)
-- [Haapsalu kolledži ainekursuste veebirakenduse edasiarendus - Krister Herman Sepp](./2023/Ainekursus_back/README.md)
-- [Haapsalu kolledži e-õppe platvormi esirakenduse loomine koos disaini ja esirakenduse koodi sünkroniseerimisega - Juho Kalberg](./2023/Ainekursus_disain/README.md)
-- [Haapsalu kolledži kirjalike tööde vorminduse automaatkontrolli võimalikkus - Hanna Kalavus](./2023/Vorminduse_kontroll/README.md)
-- [Haapsalu kolledži tunniplaani nutiseadme kuva loomine - Jaanus Saago](./2023/Tunniplaan_mobiil/README.md)
-- [Ikoonikomplekti loomine Haapsalu kolledžile - Tiina Kukli](./2023/Ikoonikomplekt/README.md)
-- [Pikslikunsti loomine 2D-videomängudele - Ainar Kiison](./2023/Pikslikunst/README.md)
-- [Päevaliblikate välimääraja prototüübi loomine - Laura Õun](./2023/Liblikarakendus/README.md)
-- [Rakendusliideste regressioonitestimise automatiseerimine - Taaniel Levin](./2023/Testimine/README.md)
-- [Tunniplaani rakenduse arendamine ja juurutamine Tallinna Ülikooli Haapsalu Kolledži näitel - Ahti Irs](./2023/Tunniplaan_back/README.md)
-- [Üle-eestilise saskumängijate kodulehe prototüübi loomine - Kristi Pruul](./2023/Sasku/README.md)
+# Diplomitööde nimekiri
+
+| Diplomitöö                                                                                                     | Kaitsmise aasta | Juhendaja          | Viide eTERA andmebaasi                         |
+| -------------------------------------------------------------------------------------------------------------- | --------------- | ------------------ | ---------------------------------------------- |
+| Aedniku rakenduse loomine                                                                                      | 2023            | Argo Ilves MSc     | [Vaata](https://www.etera.ee/zoom/200330/view) |
+| Haapsalu kolledži ainekursuste veebirakenduse edasiarendus                                                     | 2023            | Martti Raavel MA   | [Vaata](https://www.etera.ee/zoom/200350/view) |
+| Haapsalu kolledži e-õppe platvormi esirakenduse loomine koos disaini ja esirakenduse koodi sünkroniseerimisega | 2023            | Priidu Paomets MSc | [Vaata](https://www.etera.ee/zoom/200378/view) |
+| Haapsalu kolledži kirjalike tööde vorminduse automaatkontrolli võimalikkus                                     | 2023            | Priidu Paomets MSc | [Vaata](https://www.etera.ee/zoom/200354/view) |
+| Haapsalu kolledži tunniplaani nutiseadme kuva loomine                                                          | 2023            | Priidu Paomets MSc | [Vaata](https://www.etera.ee/zoom/200345/view) |
+| Ikoonikomplekti loomine Haapsalu kolledžile                                                                    | 2023            | Laura Hein MA      | [Vaata](https://www.etera.ee/zoom/200397/view) |
+| Pikslikunsti loomine 2D-videomängudele                                                                         | 2023            | Laura Hein MA      | [Vaata](https://www.etera.ee/zoom/200344/view) |
+| Päevaliblikate välimääraja prototüübi loomine                                                                  | 2023            | Laura Hein MA      | [Vaata](https://www.etera.ee/zoom/200341)      |
+| Rakendusliideste regressioonitestimise automatiseerimine                                                       | 2023            | Andrus Rinde MSc   | [Vaata](https://www.etera.ee/zoom/200358/view) |
+| Tunniplaani rakenduse arendamine ja juurutamine Tallinna Ülikooli Haapsalu Kolledži näitel                     | 2023            | Martti Raavel MA   | [Vaata](https://www.etera.ee/zoom/200381/view) |
+| Üle-eestilise saskumängijate kodulehe prototüübi loomine                                                       | 2023            | Martti Raavel MA   | [Vaata](https://www.etera.ee/zoom/200339/view) |
