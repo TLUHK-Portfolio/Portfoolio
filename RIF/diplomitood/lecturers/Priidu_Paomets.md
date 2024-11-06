@@ -33,7 +33,3 @@ Priidu Paomets juhendatud diplomitööd Haapsalu kolledži rakendusinformaatika 
 | Google teenuste kasutamine Unity Android mänguprojektis lisavõimaluste loomiseks                              | 2017            | [Vaata](https://www.etera.ee/zoom/32369/view)  |
 | Veebipõhine projektihaldustarkvara kliendi ja teenusepakkuja vahel                                            | 2016            | [Vaata](https://www.etera.ee/zoom/32444/view)  |
 | Koharegistreerimissüsteemi loomine avatud lähtekoodiga veebitehnoloogiate abil                                | 2015            | [Vaata](https://www.etera.ee/zoom/4495/view)   |
-
----
-
-See tabel sisaldab kõiki Priidu Paomets MSc juhendatud diplomitöid, koos aastaarvude ja linkidega eTERA andmebaasis olevatele töödele.

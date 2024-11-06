@@ -13,7 +13,3 @@ Martti Raaveli juhendatud diplomitööd Haapsalu kolledži rakendusinformaatika 
 | Tunniplaani rakenduse arendamine ja juurutamine TLÜ Haapsalu kolledži näitel                    | 2023            | [Vaata](https://www.etera.ee/zoom/200381/view) |
 | Lugemise väljakutse veebirakenduse prototüüp                                                    | 2022            | [Vaata](https://www.etera.ee/zoom/198696/view) |
 | Kalastuskampaania eksperimendi koostamine                                                       | 2022            | [Vaata](https://www.etera.ee/zoom/198701/view) |
-
----
-
-See tabel sisaldab kõiki Martti Raavel MA juhendatud diplomitöid koos aastaarvude ja linkidega eTERA andmebaasis olevatele töödele.

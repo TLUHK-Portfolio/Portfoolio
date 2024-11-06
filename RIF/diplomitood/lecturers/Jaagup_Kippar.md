@@ -13,7 +13,3 @@ Jaagup Kippari juhendatud diplomitööd Haapsalu kolledži rakendusinformaatika 
 | Õpihaldussüsteemi loomine WPLMS abil                                                     | 2016            | [Vaata](https://www.etera.ee/zoom/32457/view)  |
 | Uue tunniplaanisüsteemi arendamine Tallinna Ülikooli Haapsalu Kolledžile                 | 2015            | [Vaata](https://www.etera.ee/zoom/4375/view)   |
 | Liikumispuudega inimeste liikumissüsteemi prototüüp nutiseadmesse Haapsalu linna näitel  | 2015            | [Vaata](https://www.etera.ee/zoom/4186/view)   |
-
----
-
-See tabel sisaldab kõiki Jaagup Kippar MSc juhendatud diplomitöid koos aastaarvude ja linkidega eTERA andmebaasis olevatele töödele.
