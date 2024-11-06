@@ -8,7 +8,6 @@ Priidu Paomets juhendatud diplomitööd Haapsalu kolledži rakendusinformaatika 
 | Kubernetese klastris hallatavate rakenduste versiooniinfo kontrollimise automatiseerimine                     | 2024            | [Vaata](https://www.etera.ee/zoom/201981/view) |
 | Jaekaubandusettevõtte püsiklientide segmenteerimise rakenduse prototüübi loomine Prisma Peremarket AS näitel  | 2024            | [Vaata](https://www.etera.ee/zoom/201954/view) |
 | Haapsalu kolledži e-õppe platvormi esirakendus                                                                | 2023            | [Vaata](https://www.etera.ee/zoom/200378/view) |
-| Haapsalu kolledži programmeerimise ainetes kirjutatud koodi automaatse kontrollimise võimalused               | 2023            | [Vaata](https://www.etera.ee/zoom/200368/view) |
 | Haapsalu kolledži tunniplaani nutiseadme kuva loomine                                                         | 2023            | [Vaata](https://www.etera.ee/zoom/200345/view) |
 | Turvateabe ja -sündmuste haldusrakenduse juurutamine Registrite ja Infosüsteemide Keskuses                    | 2023            | [Vaata](https://www.etera.ee/zoom/200348/view) |
 | WordPressi veebilehe peata tehnoloogiale üleminekut tutvustava juhendi loomine                                | 2023            | [Vaata](https://www.etera.ee/zoom/200346/view) |
