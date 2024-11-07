@@ -7,9 +7,12 @@ Martti Raaveli juhendatud diplomitööd Haapsalu kolledži rakendusinformaatika 
 | Kultuuriasutuste veebisaitide ligipääsetavuse analüüs muuseumide näitel                         | 2024            | [Vaata](https://www.etera.ee/zoom/201986/view) |
 | Ainekursuse rakenduse edasiarendus                                                              | 2024            | [Vaata](https://www.etera.ee/zoom/201967/view) |
 | Kasutajate halduse süsteem Haapsalu kolledžis                                                   | 2024            | [Vaata](https://www.etera.ee/zoom/201963/view) |
+| Parila Külaseltsile digilahenduse loomine broneeringute ja info haldamiseks                     | 2024            |                                                |
 | Üle-eestilise saskumängijate kodulehe prototüüp                                                 | 2023            | [Vaata](https://www.etera.ee/zoom/200339/view) |
+| Haapsalu kolledži ainekursuste veebirakenduse edasiarendamine                                   | 2023            | [Vaata](https://www.etera.ee/zoom/200350/view) |
 | AS Bestnet tootmise paberivabaks muutmine                                                       | 2023            | [Vaata](https://www.etera.ee/zoom/200384/view) |
 | Haapsalu kolledži programmeerimise ainetes kirjutatud koodi automaatse kontrollimise võimalused | 2023            | [Vaata](https://www.etera.ee/zoom/200368/view) |
 | Tunniplaani rakenduse arendamine ja juurutamine TLÜ Haapsalu kolledži näitel                    | 2023            | [Vaata](https://www.etera.ee/zoom/200381/view) |
 | Lugemise väljakutse veebirakenduse prototüüp                                                    | 2022            | [Vaata](https://www.etera.ee/zoom/198696/view) |
 | Kalastuskampaania eksperimendi koostamine                                                       | 2022            | [Vaata](https://www.etera.ee/zoom/198701/view) |
+| Tõlkehaldusrakenduse regressioonitestimise automatiseerimine Playtech Estonia OÜ näitel         | 2022            |                                                |

@@ -6,6 +6,7 @@ Laura Heina juhendatud diplomitööd Haapsalu kolledži rakendusinformaatika eri
 | --------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------- |
 | Poes arvutamist lihtsustava rakenduse prototüüp esimese kooliastme lapsele              | 2024            | [Vaata](https://www.etera.ee/zoom/201966/view) |
 | Veebirakenduse kasutajaliidese auditeerimine                                            | 2024            | [Vaata](https://www.etera.ee/zoom/201955/view) |
+| Ikoonikomplekti loomine Haapsalu kolledžile                                             | 2023            | [Vaata](https://www.etera.ee/zoom/200397/view) |
 | Päevaliblikate välimääraja prototüübi loomine                                           | 2023            | [Vaata](https://www.etera.ee/zoom/200341/view) |
 | Pikslikunsti loomine 2D-videomängudele                                                  | 2023            | [Vaata](https://www.etera.ee/zoom/200344/view) |
 | Järjepidevuse printsiip kasutajaliidese disainis                                        | 2021            | [Vaata](https://www.etera.ee/zoom/143734/view) |

@@ -6,18 +6,23 @@ Andrus Rinde juhendatud diplomitööd Haapsalu kolledži rakendusinformaatika er
 | --------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------- |
 | Tööriistade andmete digitaalne haldus: võrdlev uurimus HANZA Mechanics Tartu AS näitel                          | 2024            | [Vaata](https://www.etera.ee/zoom/201965/view) |
 | Hinnavõrdluse laienduse arendamine Google Chrome veebilehitsejale                                               | 2024            | [Vaata](https://www.etera.ee/zoom/201974/view) |
+| Helitehnilist juhendmaterjali pakkuv veebiplatvorm noortekeskustele                                             | 2024            | [Vaata](https://www.etera.ee/zoom/201964/view) |
 | Rakendusliideste regressioonitestimise automatiseerimine                                                        | 2023            | [Vaata](https://www.etera.ee/zoom/200358/view) |
 | Ressursside broneerimise süsteemi koolidele edasiarendus                                                        | 2022            | [Vaata](https://www.etera.ee/zoom/198660/view) |
 | Material Design suuniste rakendamine veebilehe kasutajaliidese parandamiseks MTÜ Võidusõiduabi veebilehe näitel | 2022            | [Vaata](https://www.etera.ee/zoom/198693/view) |
 | Rakenduse prototüüp kehalise kasvatuse õpetajatele õpilaste tulemuste ja arengu märkimiseks ning jälgimiseks    | 2022            | [Vaata](https://www.etera.ee/zoom/198652/view) |
 | 3D tegelaskuju liigutuste animeerimine liikumishõive abil                                                       | 2022            | [Vaata](https://www.etera.ee/zoom/198662/view) |
+| Tsentraalse transliteratsiooni rakenduse loomine                                                                | 2022            |
 | Eesti-leedu keeleõppe vestmiku mobiilirakenduse prototüübi loomine                                              | 2021            | [Vaata](https://www.etera.ee/zoom/143690/view) |
-| Õppeinfosüsteemi Tahvel täiendus testimismeetoditega                                                            | 2021            | [Vaata](https://www.etera.ee/zoom/143732/view) |
+| Automaatseid teste teostavate tööriistade võrdlus veebilehe ligipääsetavuse hindamiseks                         | 2021            | [Vaata](https://www.etera.ee/zoom/143732/view) |
 | Veebipõhine dokumendifoto pildistamisrakenduse loomine õppeinfosüsteemi Tahvel näitel                           | 2021            | [Vaata](https://www.etera.ee/zoom/143691/view) |
 | Veebipõhine liitreaalsus ja selle loomine vabavaraliste vahendite abil                                          | 2021            | [Vaata](https://www.etera.ee/zoom/143689/view) |
+| Kohviku töötajate töögraafiku koostamise rakenduse loomine                                                      | 2021            |                                                |
 | DHX adapterserveri halduspaneeli arendamine                                                                     | 2020            | [Vaata](https://www.etera.ee/zoom/90424/view)  |
 | Infoturbeintsidentide tuvastamise tõhustamine Elastic Stack’i abil ettevõtte näitel                             | 2020            | [Vaata](https://www.etera.ee/zoom/90428/view)  |
 | Microsoft Office kontoritarkvara töövoogude alternatiivsete automatiseerimisvahendite võrdlus                   | 2020            | [Vaata](https://www.etera.ee/zoom/90427/view)  |
+| Monitooringutarkvara Observium paigaldamine Tallinna Ülikooli Haapsalu kolledži näitel                          | 2020            | [Vaata](https://www.etera.ee/zoom/90425/view)  |
+| Eesti Maa-ameti aluskaartide kuvamine Waze’i kaardiredaktoris                                                   | 2020            | [Vaata](https://www.etera.ee/zoom/90417/view)  |
 | Kiirsuhtlusrakenduste võrdlus ja tarkvaraarendus ettevõtetele suunatud funktsioonide analüüs                    | 2019            | [Vaata](https://www.etera.ee/zoom/61614/view)  |
 | Teenusedisaini printsiipide rakendatavus veebilehe parendamiseks                                                | 2019            | [Vaata](https://www.etera.ee/zoom/61610/view)  |
 | Vabavaraliste videotöötlusprogrammide stabiliseerimistööriistade võrdlus                                        | 2019            | [Vaata](https://www.etera.ee/zoom/61612/view)  |
