@@ -22,7 +22,7 @@ Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tän
 - Veebirakenduste loomine
 - Projektijuhtimine ja koostööoskused
 
-Meie erialal saavad üliõpilased teadmised ja kogemus kogu tarkvaraarenduse elutsüklist, alates idee genereerimisest, läbi kavandamise, kasutajauuringute, disaini ja arendamise kuni testimise ja kasutuselevõtuni.
+Meie erialal saavad üliõpilased teadmised ja kogemuse kogu tarkvaraarenduse elutsüklist, alates idee genereerimisest, läbi kavandamise, kasutajauuringute, disaini ja arendamise kuni testimise ja kasutuselevõtuni.
 
 ## Praktika ja projektipõhine õpe
 
