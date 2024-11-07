@@ -4,7 +4,7 @@
 
 ## Miks õppida rakendusinformaatikat Haapsalu kolledžis?
 
-Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tänapäevasele tööjõuturule suunatud praktiliste IT-lahendustega. Selle eriala kaudu omandavad tudengid teadmisi ja oskusi, mis on vajalikud tarkvara arendamisel, IT-süsteemide haldamisel ja arendusprojektide elluviimisel. Meie õppekava keskendub kaasaegsetele tehnoloogiatele ja rõhutab praktilist lähenemist läbi reaalsete projektide.
+Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tänapäevasele tööjõuturule suunatud praktiliste IT-lahendustega. Selle eriala kaudu omandavad üliõpilased teadmisi ja oskusi, mis on vajalikud tarkvara arendamisel, IT-süsteemide haldamisel ja arendusprojektide elluviimisel. Meie õppekava keskendub kaasaegsetele tehnoloogiatele ja rõhutab praktilist lähenemist läbi reaalsete projektide.
 
 - **Õppekeel**: Eesti keel
 - **Õppevorm**: Tsükliõpe (üle nädala neljapäevast laupäevani)
@@ -14,13 +14,15 @@ Rakendusinformaatika eriala eesmärk on valmistada tudengeid ette töötama tän
 
 ## Õppekava ja erialaained
 
-Õppekava on üles ehitatud nii, et tudengid saaksid süsteemse arusaama IT-ökosüsteemist ja omandaksid praktilisi oskusi, mida saab kohe tööle asudes rakendada. Erialaainete hulka kuuluvad:
+Õppekava on üles ehitatud nii, et üliõpilased saaksid süsteemse arusaama IT-ökosüsteemist ja omandaksid praktilisi oskusi, mida saab kohe tööle asudes rakendada. Erialaainete hulka kuuluvad:
 
 - Tarkvaraarendus ja koodihaldus
 - Andmebaasid ja andmeanalüüs
 - Kasutajakogemuse ja kasutajaliideste disain
 - Veebirakenduste loomine
 - Projektijuhtimine ja koostööoskused
+
+Meie erialal saavad üliõpilased teadmised ja kogemus kogu tarkvaraarenduse elutsüklist, alates idee genereerimisest, läbi kavandamise, kasutajauuringute, disaini ja arendamise kuni testimise ja kasutuselevõtuni.
 
 ## Praktika ja projektipõhine õpe
 
