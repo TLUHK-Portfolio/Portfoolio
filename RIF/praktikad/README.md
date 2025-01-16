@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/TLUHK-RIF22/multimeediumi_praktika_Ryhm_1/raw/ef04606df25b185ace84241143f72fc42f8b1c22/Meedia/Video/Cutscened/Siga%20saabub%20chuck%20norrise%20moodi.gif" alt="Escape from Piggy Island" width="250"></td>
-    <td>"Escape from Piggy Island" mängu eesmärk on võimaldada mängijatel sukelduda põnevasse seiklusmaailma, kus nad saavad kogeda mitmekesiseid väljakutseid, lahendada loomingulisi mõistatusi ning arendada oma oskusi ja strateegilist mõtlemist. Mäng soovib pakkuda nauditavat ja mitmekülgset mängukogemust. Kuna antud meeskonna arust on liiga palju juba kaasaegseid mänge, otsutas antud meeskond luua retro mängu, mis pärineks justkui otse 90ndatest, kui mängukultuur laiemalt antud riigis levima hakkas..</td>
+    <td>"Escape from Piggy Island" mängu eesmärk on viia mängijad põnevasse seiklusmaailma, kus neid ootavad mitmekesised väljakutsed, loomingulised mõistatused ja võimalus arendada oma oskusi ning strateegilist mõtlemist. Mäng keskendub retrostiilile, tuues kaasa 90ndatele iseloomuliku atmosfääri ja visuaalse keele, meenutades aega, mil mängukultuur antud piirkonnas hoogsalt arenes.</td>
   </tr>
 </table>
 
@@ -16,20 +16,20 @@
 
 <table>
   <tr>
-    <td><img src="./images/Prygivagi.png" alt="Prügivägi" width="350"></td>
-    <td>"Prügivägi" on 2D õppemäng prügisorteerimise kohta. Mängu peategelane on pesukaru Ragnar, kes õpetab mängijale prügi sorteerima.
+    <td><img src="./images/Prygivagi.png" alt="Prügivägi" width="1250"></td>
+    <td>"Prügivägi" on hariv 2D-mäng, kus mängijad õpivad jäätmete sorteerimist lõbusal ja interaktiivsel viisil. Peategelane Ragnar, armas pesukaru, juhendab mängijaid prügi õigesti sorteerima erinevates keskkondades, nagu kodu, aed ja mets. Iga tase esitab uusi väljakutseid, kus mängijad koguvad prügi ja sorteerivad selle vastavalt liigile. Õige sorteerimise eest teenitakse punkte ning mängus antakse tagasisidet, et soodustada õigete valikute tegemist.
     </td>
   </tr>
 </table>
 
 [Mängu repositoorium](https://github.com/TLUHK-RIF22/Oppemang-Prugivagi)
 
-### Arvutimäng "Fight or Flight"
+### Arvutimäng Fight or Flight
 
 <table>
   <tr>
     <td><img src="./images/FightOrFlight.png" alt="Fight or Flight" width="1400"></td>
-    <td>Projekt on loodud multimeediumi praktika raames. Projekti eesmärgiks on luua õppemäng, mis on suunatud 1.-6. klassi õpilastele. Mängu nimi on "Fight or Flight" ja selle žanriks on seikluslik õppemäng. Mängu kangelaseks on lendorav Timmu, kes sai oma nime maineka lendorava uurija – Uudo Timm järgi. Mängu eesmärgiks on õpetada lastele keskkonnakaitse ja looduse olulisust. Lisaks sellele, et lendoravat peetakse Eestis looduskaitse sümboliks, on ta valitud aasta loomaks 2023.
+    <td>"Fight or Flight" on seikluslik õppemäng, mille eesmärgiks on õpetada 1.-6. klassi õpilastele looduse ja keskkonnakaitse tähtsust. Mängu peategelane on lendorav Timmu, kes elab metsas, mida ohustab inimeste poolt tekitatud häving. Mängu käigus peab Timmu võitlema metsa kiskjate vastu, vältides nende rünnakuid ning kasutama oma lendorava oskusi, et päästa kodumets. Mäng õpetab looduskaitset ja elupaikade tähtsust, pakkudes samal ajal põnevat ja harivat mängukogemust.
     </td>
   </tr>
 </table>
@@ -42,8 +42,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/TLUHK-Portfolio/Mina-Tean/blob/master/MinaTean/img/main_menu.png" alt="Mina Tean avaleht" width="1400"></td>
-    <td>Mängu Mina tean! käigus peab mängija liikuma klassiruumides ning edasi pääsemiseks tuleb mängijal lahendada ülesandeid. Mängija valib tahvlilt vastuse kolme vastusevariandi seast. Õige vastuse korral avaneb uks ja mängija saab edasi liikuda järgmise ülesande juurde, vale vastuse korral saab mängija uuesti vastata niikaua, kui saab õige vastuse. Iga ülesande eest saab karika vastavalt sellele, mitmendal korral õigesti vastas. Mängu tulemusest sõltub, kas ta saab järgmisele tasemele.</td>
+    <td><img src="https://github.com/TLUHK-Portfolio/Mina-Tean/blob/master/MinaTean/img/main_menu.png" alt="Mina Tean avaleht" width="1200"></td>
+    <td>Mängus "Mina tean!" peab mängija liikumiseks klassiruumides lahendama ülesandeid, valides kolme vastusevariandi hulgast õige. Kui vastus on õige, avaneb uks ja mängija saab edasi liikuda. Vale vastuse korral saab mängija uuesti proovida, kuni õige vastus leitakse. Iga ülesande täpsuse järgi antakse karikas, mis mõjutab mängu lõpptulemust ja otsustab, kas mängija pääseb järgmisele tasemele.</td>
   </tr>
 </table>
 
@@ -53,8 +53,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/TLUHK-Portfolio/.github/blob/main/RIF/praktikad/images/BabushkaJaGrizzly.png" alt="Babushka ja Grizzly" width="1150"></td>
-    <td>„Babushka ja GriZZly“ on arvutis mängitav meelelahutusmäng kahe võimsa vastase vahel, kus mõlemad tegelased viskavad üksteise suunas esemeid. Rünnakud toimuvad kordamööda, kus mõlemal tegelasel on võimalus visata üks objekt korraga, luues dünaamilise ja põneva mängurütmi. Mängija on Babushka rollis ning tema eesmärk on olla täpsem kui GriZZly. </td>
+    <td><img src="https://github.com/TLUHK-Portfolio/.github/blob/main/RIF/praktikad/images/BabushkaJaGrizzly.png" alt="Babushka ja Grizzly" width="1400"></td>
+    <td>„Babushka ja GriZZly“ on arvutimäng, kus kaks vastast viskavad üksteise suunas esemeid, vaheldumisi rünnates. Mängija mängib Babushka rollis, kelle eesmärk on olla täpsem kui GriZZly, vähendades vastase eluriba täpsete visetega. Mäng sisaldab kahte taset: suvine looduse taust ja talvine lumine maastik. Mängus saab täpselt reguleerida viske suunda ja tugevust, pakkudes mängijale täielikku kontrolli ning kaasahaaravat mängukogemust.</td>
   </tr>
 </table>
 
@@ -64,8 +64,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/TLUHK-Portfolio/Tudengiralli/blob/master/Graafika/PNG/BackgroundTilesetVer5WithPlayer.png" alt="Tudengiralli tileset" width="870"></td>
-    <td>Tudengiralli on 2D platvormtüüpi arvutimäng, kus mängija eesmärk on võimalikult kiiresti jõuda leveli algusest finišisse. Finiš avaneb alles siis, kui mängija on läbinud kõik vahepunktid ja kogunud nendest esemed. Mõned vahepunktid nõuavad batuutide kasutamist, et jõuda piisavalt kõrgele.</td>
+    <td><img src="https://github.com/TLUHK-Portfolio/Tudengiralli/blob/master/Graafika/PNG/BackgroundTilesetVer5WithPlayer.png" alt="Tudengiralli tileset" width="1300"></td>
+    <td>Tudengiralli on 2D platvormimäng Piksel graafikas, kus mängija eesmärgiks on jõuda võimalikult kiiresti finišisse, läbides kõik vahepunktid ja kogudes esemed. Mängu peategelaseks on tudeng, kes peab ülikoolis semestrite jooksul takistusi ületama. Mõned vahepunktid nõuavad batuutide kasutamist, et jõuda piisavalt kõrgele. Mängus on erinevaid takistusi, mille ületamine paneb mängija osavuse proovile. </td>
   </tr>
 </table>
 
